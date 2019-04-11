@@ -1,1 +1,1 @@
-# WNDS_NET_CAN
+Qt网络和CAN测试
